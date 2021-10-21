@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup /bin/sh /etc/qos_daemon.sh > /dev/null 2> /dev/null &
